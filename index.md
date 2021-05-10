@@ -30,6 +30,7 @@ if they all the philosophers act in naive and identical ways, run the risk of fi
 The challenge of the dining problem comes through its constraints, in other words how can we solve this problem such that the philosophers are equally fed  concurrently and to avoid deadlocks- which happens when for example all the philosophers are holding only one fork, where the whole system is not progressing. Thus, we need to prioritize avoidance of resource starvation and implement mutual exclusion to avoid data corruption.
 
 ## Solutions and analysis:
+![boi](https://www.cs.fsu.edu/~baker/opsys/notes/graphics/deadlockedphilos.gif)
 
 One of the main solutions to this problem is that through the use of semaphores- variables that can be accessed through different processes and threads- we can have an ordering hierarchy of resources. Another solution is to give resources randomly to any process that can use them to do so(this solution is actually incorrect). Both these solutions among other suggested solutions will be discussed. 
 
