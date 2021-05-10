@@ -1,5 +1,5 @@
 # Assignment 2: The Dining philosophers problem 
---
+
 Author: Abdulla Alameri
 Class: Operating Systems CSC 308
 Adminstered By: Dr. Adel Khelifi
