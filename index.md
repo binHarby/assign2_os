@@ -1,9 +1,9 @@
 # Assignment 2: The Dining philosophers problem 
-
+---
 Author: Abdulla Alameri   
 Class: Operating Systems CSC 308    
 Adminstered By: Dr. Adel Khelifi    
---
+---
 
 The problem of the dining philosophers was first stated by the Dutch computer scientist Edsger Dijkstra in 1965 as an examination question for students. Since then, the problem has undergone a number of changes. It appears in several slightly different formats, some of which only change the details of the story, but others put additional limitations on the problem to demonstrate difficult concepts. 
 Generally, the dining problem created by Dijkstra is as follows: five philosophers gather around a table.Each philosopher has a plate of some sort of food in front of him that he would like to eat. There is a fork on both sides of each of their plates; a total of five forks. A philosopher needs two forks to eat his dinner dish, one on the right and other one on the left. 
