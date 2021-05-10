@@ -95,7 +95,7 @@ int main()
 }
 ```
 
-### Even/odd case solution:
+### Solution 2-Even/odd case solution:
 In the even case a simple solution exists. The philosophers are numbered according to their place at the table. And we decide that the philosophers having an even number take their left fork first, then their right and the reverse with the philosophers having an odd number.
 
 
